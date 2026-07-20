@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ioai",
+    "website": "https://ioai-official.org/",
+    "arname": "الأولمبياد الدولي للذكاء الاصطناعي",
+    "enname": "International Olympiad in Artificial Intelligence",
+    "ardescription": "مسابقة يشارك فيها أكثر من 100 دولة حول العالم",
+    "endescription": "More than 100 countries around the world participate in this Olympiad",
+    "participants_count": 4,
+    "problems_count": 6,
+    "official": true
+  },
+  {
+    "id": "apoai",
+    "website": "https://apoai.org/",
+    "arname": "الاولمبياد الاسوي والباسفيك للذكاء الاصطناعي",
+    "enname": "Asia-Pacific Olympiad in Artificial Intelligence",
+    "ardescription": "",
+    "endescription": "",
+    "participants_count": 8,
+    "problems_count": 4,
+    "official": true
+  },
+  {
+    "id": "iaio",
+    "website": "https://iaio-official.org/",
+    "arname": "الأولمبياد الشتوي الدولي للذكاء الاصطناعي",
+    "enname": "International Winter Artificial Olympiad",
+    "ardescription": "",
+    "endescription": "",
+    "participants_count": 4,
+    "problems_count": 2,
+    "official": true
+  }
+]

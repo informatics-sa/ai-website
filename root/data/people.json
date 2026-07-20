@@ -1,0 +1,143 @@
+[
+    {
+        "iid": 701,
+        "arname": "عبدالإله السقاف",
+        "enname": "Abdulelah Assaggaf",
+        "graduation": 2028,
+        "level": -1
+    },
+    {
+        "iid": 702,
+        "arname": "سعد العريفي",
+        "enname": "Saad Alarifi",
+        "graduation": 2027,
+        "level": -1
+    },
+    {
+        "iid": 703,
+        "arname": "ناصر المسعود",
+        "enname": "Nasser Almasoud",
+        "graduation": 2024,
+        "level": -1
+    },
+    {
+        "iid": 704,
+        "arname": "عيسى الموسى",
+        "enname": "Issa Almosaa",
+        "graduation": 2024,
+        "level": -1
+    },
+    {
+        "iid": 705,
+        "arname": "اديب الشهري",
+        "enname": "Adeeb Alshehri",
+        "graduation": 2024,
+        "level": -1
+    },
+    {
+        "iid": 706,
+        "arname": "عماد الحربي",
+        "enname": "Emad Alharbi",
+        "graduation": 2025,
+        "level": -1
+    },
+    {
+        "iid": 707,
+        "arname": "احمد الهاشم",
+        "enname": "Ahmed Alhashem",
+        "graduation": 2024,
+        "level": -1
+    },
+    {
+        "iid": 708,
+        "arname": "الطيب الأخضري",
+        "enname": "Alayeb Alakhderi",
+        "graduation": 2027,
+        "level": -1
+    },
+    {
+        "iid": 709,
+        "arname": "معاذ القرني",
+        "enname": "Muaath Alqarni",
+        "graduation": 2025,
+        "level": -1
+    },
+    {
+        "iid": 710,
+        "arname": "علي السلمان",
+        "enname": "Ali Alsliman",
+        "graduation": 2026,
+        "level": -1
+    },
+    {
+        "iid": 711,
+        "arname": "قصي جادالله",
+        "enname": "Qusai Jadallah",
+        "graduation": 2027,
+        "level": 2
+    },
+    {
+        "iid": 712,
+        "arname": "علي الخباز",
+        "enname": "Ali Alkhabbaz",
+        "graduation": 2027,
+        "level": 2
+    },
+    {
+        "iid": 713,
+        "arname": "حمد الكلباني",
+        "enname": "Hamad Alkalbani",
+        "graduation": 2026,
+        "level": 2
+    },
+    {
+        "iid": 714,
+        "arname": "يوسف الخلاوي",
+        "enname": "Yusuf Alkhalawi",
+        "graduation": 2026,
+        "level": 2
+    },
+    {
+        "iid": 715,
+        "arname": "ليث الزهراني",
+        "enname": "Layth Alzahrani",
+        "graduation": 2027,
+        "level": 2
+    },
+    {
+        "iid": 716,
+        "arname": "رائد طيب",
+        "enname": "Raed Tayeb",
+        "graduation": 2026,
+        "level": 2
+    },
+    {
+        "iid": 717,
+        "arname": "سلمى المطاوعه",
+        "enname": "Salma Almatawah",
+        "graduation": 2028,
+        "level": 1
+    },
+    {
+        "iid": 718,
+        "arname": "عبدالرحمن وحدين",
+        "enname": "Abdulrahman Wahdain",
+        "graduation": 2027,
+        "level": 1
+    },
+    {
+        "iid": 719,
+        "arname": "نوره الحميضي",
+        "enname": "Norah Alhomaidhi",
+        "graduation": 2029,
+        "level": 1
+    },
+    {
+        "iid": 720,
+        "arname": "موسى الحداد",
+        "enname": "Mosa Alhaddad",
+        "graduation": 2029,
+        "level": 1
+    }
+    
+]

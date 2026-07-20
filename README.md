@@ -1,12 +1,12 @@
-# Saudi Physics Team Website
-This website is made by the students on the Saudi Team, to preserve history of Saudi Physics Team in one place.
+# Saudi AI Team Website
+This website is made by the students on the Saudi Team, to preserve history of Saudi AI Team in one place.
 
-This website includes: olympiads, participations.
+This website includes: olympiads, participations, and members.
 
 ## Documentation
-Read [Website public data files](https://physics.sainformatics.org/data/) documentation.
+Read [Website public data files](https://ai.sainformatics.org/data/) documentation.
 
-You might also refer to [Developer documentation](https://physics.sainformatics.org/data/dev).
+You might also refer to [Developer documentation](https://ai.sainformatics.org/data/dev).
 
 ## Local Build
 ### Prerequisites
@@ -36,9 +36,9 @@ Current maintainers:
 - Muaath Alqarni
 
 Data Contributers:
-- Amjed Al Darwish
+- Layth Alzahrani
 
 ## License
 This project is licensed under the GNU General Public License v3.0.
 
-Check [LICENSE](https://github.com/informatics-sa/math-website/blob/main/LICENSE)
+Check [LICENSE](https://github.com/informatics-sa/ai-website/blob/main/LICENSE)

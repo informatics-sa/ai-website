@@ -1,5 +1,6 @@
 {
     "version": "1.0.0",
+    "logo": "sait.svg",
     "old_id_system": false,
     "enable_exams_page": false,
     "enable_members_index": true,

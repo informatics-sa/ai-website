@@ -15,22 +15,22 @@
     },
     {
         "iid": 703,
-        "arname": "ناصر المسعود",
-        "enname": "Nasser Almasoud",
+        "arname": "ناصر آل مسعود",
+        "enname": "Naser Al Masoud",
         "graduation": 2024,
         "level": -1
     },
     {
         "iid": 704,
         "arname": "عيسى الموسى",
-        "enname": "Issa Almosaa",
+        "enname": "Essa Almosa",
         "graduation": 2024,
         "level": -1
     },
     {
         "iid": 705,
-        "arname": "اديب الشهري",
-        "enname": "Adeeb Alshehri",
+        "arname": "أديب الشهري",
+        "enname": "Adeeb Alshehry",
         "graduation": 2024,
         "level": -1
     },
@@ -43,7 +43,7 @@
     },
     {
         "iid": 707,
-        "arname": "احمد الهاشم",
+        "arname": "أحمد الهاشم",
         "enname": "Ahmed Alhashem",
         "graduation": 2024,
         "level": -1
@@ -51,7 +51,7 @@
     {
         "iid": 708,
         "arname": "الطيب الأخضري",
-        "enname": "Alayeb Alakhderi",
+        "enname": "Altayeb Alakhderi",
         "graduation": 2027,
         "level": -1
     },
@@ -65,7 +65,7 @@
     {
         "iid": 710,
         "arname": "علي السلمان",
-        "enname": "Ali Alsliman",
+        "enname": "Ali Alsalman",
         "graduation": 2026,
         "level": -1
     },

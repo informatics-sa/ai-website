@@ -3,9 +3,9 @@
         "name": "ioai", "year": 2026, "start": "2026-08-02", "end": "2026-08-08", "country": "kz",
         "website": "https://ioai2026.kz",
         "participants": {
-            "714": null,
-            "712": null,
-            "711": null,
+            "714": "silver",
+            "712": "bronze",
+            "711": "bronze",
             "713": null
         }
     },

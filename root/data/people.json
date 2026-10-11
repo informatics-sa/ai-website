@@ -4,140 +4,159 @@
         "arname": "عبدالإله السقاف",
         "enname": "Abdulelah Assaggaf",
         "graduation": 2028,
-        "level": -1
+        "level": -1,
+        "soid": "4be46a3f-8916-4586-b293-981d052cccc3"
     },
     {
         "iid": 702,
         "arname": "سعد العريفي",
         "enname": "Saad Alarifi",
         "graduation": 2027,
-        "level": -1
+        "level": -1,
+        "soid": "0c06a014-804c-460e-b586-8169f9ffa369"
     },
     {
         "iid": 703,
         "arname": "ناصر آل مسعود",
         "enname": "Naser Al Masoud",
         "graduation": 2024,
-        "level": -1
+        "level": -1,
+        "soid": "f08c84e9-504f-4fca-b889-430e3894deed"
     },
     {
         "iid": 704,
         "arname": "عيسى الموسى",
         "enname": "Essa Almosa",
         "graduation": 2024,
-        "level": -1
+        "level": -1,
+        "soid": "6e4337e5-9173-41e3-826d-ef52f014245c"
     },
     {
         "iid": 705,
         "arname": "أديب الشهري",
         "enname": "Adeeb Alshehry",
         "graduation": 2024,
-        "level": -1
+        "level": -1,
+        "soid": "dc2598c3-e4b8-4746-a373-ee9ca9ef86a1"
     },
     {
         "iid": 706,
         "arname": "عماد الحربي",
         "enname": "Emad Alharbi",
         "graduation": 2025,
-        "level": -1
+        "level": -1,
+        "soid": "ded8faef-0bb1-4443-a099-231fce5647c4"
     },
     {
         "iid": 707,
         "arname": "أحمد الهاشم",
         "enname": "Ahmed Alhashem",
         "graduation": 2024,
-        "level": -1
+        "level": -1,
+        "soid": "7576e04a-1c7e-420f-abbc-85c78acf0204"
     },
     {
         "iid": 708,
         "arname": "الطيب الأخضري",
         "enname": "Altayeb Alakhderi",
         "graduation": 2027,
-        "level": -1
+        "level": -1,
+        "soid": "120cf939-ce0d-4186-8752-8f551486276f"
     },
     {
         "iid": 709,
         "arname": "معاذ القرني",
         "enname": "Muaath Alqarni",
         "graduation": 2025,
-        "level": -1
+        "level": -1,
+        "soid": "d6980ceb-a1eb-4f9d-9be5-94054285ebc8"
     },
     {
         "iid": 710,
         "arname": "علي السلمان",
         "enname": "Ali Alsalman",
         "graduation": 2026,
-        "level": -1
+        "level": -1,
+        "soid": "e60bbd2b-aa73-4b07-a2c9-7b47f7e70536"
     },
     {
         "iid": 711,
         "arname": "قصي جادالله",
         "enname": "Qusai Jadallah",
         "graduation": 2027,
-        "level": 2
+        "level": 2,
+        "soid": "fa2e1260-f6dc-4337-9e66-bdc6fa3f8682"
     },
     {
         "iid": 712,
         "arname": "علي الخباز",
         "enname": "Ali Alkhabbaz",
         "graduation": 2027,
-        "level": 2
+        "level": 2,
+        "soid": "e6337dfc-e7c0-41bd-ab1e-7375ae94fb1e"
     },
     {
         "iid": 713,
         "arname": "حمد الكلباني",
         "enname": "Hamad Alkalbani",
         "graduation": 2026,
-        "level": 2
+        "level": 2,
+        "soid": "96d516b2-5da2-4491-bb08-4b2f80979612"
     },
     {
         "iid": 714,
         "arname": "يوسف الخلاوي",
         "enname": "Yusuf Alkhalawi",
         "graduation": 2026,
-        "level": 2
+        "level": 2,
+        "soid": "0a4b9a64-78f5-4139-9a3e-b46b2a1bca2b"
     },
     {
         "iid": 715,
         "arname": "ليث الزهراني",
         "enname": "Layth Alzahrani",
         "graduation": 2027,
-        "level": 2
+        "level": 2,
+        "soid": "6e506c26-6fdf-40cc-baa5-f52dd7596b42"
     },
     {
         "iid": 716,
         "arname": "رائد طيب",
         "enname": "Raed Tayeb",
         "graduation": 2026,
-        "level": 2
+        "level": 2,
+        "soid": "abe98abe-9185-406d-aa3f-f4c20ba1c940"
     },
     {
         "iid": 717,
         "arname": "سلمى المطاوعه",
         "enname": "Salma Almatawah",
         "graduation": 2028,
-        "level": 1
+        "level": 1,
+        "soid": "ab25f853-c3d7-4e6b-bb47-959e2d1d7eb8"
     },
     {
         "iid": 718,
         "arname": "عبدالرحمن وحدين",
         "enname": "Abdulrahman Wahdain",
         "graduation": 2027,
-        "level": 1
+        "level": 1,
+        "soid": "6b40a537-941b-47ef-bd68-2f165062cba2"
     },
     {
         "iid": 719,
         "arname": "نوره الحميضي",
         "enname": "Norah Alhomaidhi",
         "graduation": 2029,
-        "level": 1
+        "level": 1,
+        "soid": "8419a04d-8c2a-4bb4-8b30-ca3e94e09b31"
     },
     {
         "iid": 720,
         "arname": "موسى الحداد",
         "enname": "Mosa Alhaddad",
         "graduation": 2029,
-        "level": 1
+        "level": 1,
+        "soid": "1fb8e458-fd47-4242-8d26-7345e1741c43"
     }
-    
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "name": "ioai", "year": 2027, "start": "2027-07-04", "end": "2026-07-10", "country": "sg",
+        "website": "https://ioai-official.org/editions/singapore-2027/",
+        "participants": {}
+    },
+    {
+        "name": "apoai", "year": 2027, "start": "2027-04-26", "end": "2026-04-30", "country": "ru",
+        "website": "",
+        "participants": {}
+    },
+    {
+        "name": "iaio", "year": 2027, "start": "2027-02-25", "end": "2026-03-02", "country": "vn",
+        "website": "https://iaio-official.org/",
+        "participants": {}
+    },
+    {
         "name": "ioai", "year": 2026, "start": "2026-08-02", "end": "2026-08-08", "country": "kz",
         "website": "https://ioai2026.kz",
         "participants": {
